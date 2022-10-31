@@ -1,0 +1,17 @@
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/bin/Debug/net6.0/BethanysPieShopHRM
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/bin/Debug/net6.0/BethanysPieShopHRM.deps.json
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/bin/Debug/net6.0/BethanysPieShopHRM.runtimeconfig.json
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/bin/Debug/net6.0/BethanysPieShopHRM.dll
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/bin/Debug/net6.0/BethanysPieShopHRM.pdb
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.csproj.AssemblyReference.cache
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.AssemblyInfoInputs.cache
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.AssemblyInfo.cs
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.dll
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/refint/BethanysPieShopHRM.dll
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.pdb
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.genruntimeconfig.cache
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/ref/BethanysPieShopHRM.dll
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/jasonbouchelle/Projects/BethanysPieShopHRM/BethanysPieShopHRM/obj/Debug/net6.0/BethanysPieShopHRM.csproj.CopyComplete
